@@ -7,4 +7,23 @@ h3{
 .FamiliaTexto{
     font-family: "papyrus";
     font-size: 2em;
+    color: floralwhite;
+}
+.FondoPrincipal{
+    background-color:darkred
+}
+
+.ColorHeaderIndexVerde{
+    background-color: green;
+}
+.ColorHeaderAzulPagina1{
+    background-color: blue;
+}
+.ImagenFondo{
+    background-image: url(img/MedellinBanner.JPG);
+    height: 885px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color: red;
 }
